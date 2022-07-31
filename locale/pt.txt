@@ -1,0 +1,51 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Amazon Industrial
+
+## Media
+
+### Title
+panorama_4FDE2E5D_54BE_9751_41AE_A56BC13B519B.label = Imagem Aérea 01
+panorama_4FF8976B_54BE_9571_41D0_DD29BCD9D2BB.label = Externa - Maués
+panorama_4FFB0752_54BE_9552_41BA_C9EDD609B7FD.label = Externa - Silves
+panorama_5985FA17_5481_BED2_41BE_18005BFE1FE5.label = Imagem Aerea
+panorama_59886E68_5483_977E_41BB_EFA28707C9BA.label = Corredor 03.01
+panorama_59888212_548E_AED3_41C4_9A81DC7A3EA2.label = Equipamentos 03
+panorama_59889125_5482_AAF1_4166_2D110BF9CB55.label = Expedição 02
+panorama_5988A086_5482_EBB3_41D1_5F728EE602E2.label = Corredor 04,01
+panorama_5988C226_5482_6EF3_41CC_6394FC3AB78A.label = Expedição
+panorama_5988E173_548E_6D52_41C5_AB80AA1627E2.label = Equipamentos 02
+panorama_59890249_548F_EEBE_41C9_FFC006F4AE82.label = Tintas 04
+panorama_5989134C_548E_AEB7_41BA_554351B77492.label = Recepção 01
+panorama_59891FBD_5482_95D1_41B7_32EB50F74AA0.label = Corredor 04.03
+panorama_598932D7_548F_AF51_41D0_3BB9FC441495.label = Tintas 03
+panorama_59896358_548E_6D5F_41D2_7CA387D0B3EF.label = Recepção
+panorama_5989D2F0_548E_EF6F_41CD_8F55E288F46A.label = Corredor Materiais
+panorama_5989ED75_5483_9551_41C6_4860242E417E.label = Caixa
+panorama_598A81DC_548E_AD57_41C1_1747D0E721F7.label = Equipamentos 05
+panorama_598A92CF_548E_6FB1_41CB_15E7E79A5821.label = Tintas 2
+panorama_598B335B_5481_AD51_41CA_FAA55ECE9516.label = Bombas e Mangueiras 02
+panorama_598B6227_548E_EEF2_41CB_7AD3EB81F664.label = Equipamentos 04
+panorama_598B7188_548F_ADBF_41BE_3A1F96081537.label = Equipamentos 01
+panorama_598B7276_548E_AF53_41D4_8E20129F2522.label = Tintas 1
+panorama_598B935C_5481_AD57_419F_2F0AA251C8F7.label = Corredor 03.02
+panorama_598BB300_5481_EEAF_41B9_45BD487102DA.label = Corredor 03.03
+panorama_598BF310_548E_6EAF_41D2_4907FE36776A.label = Bombas e Mangueiras
+panorama_598EB019_5482_AAD1_41B8_DD11DF7D7884.label = Corredor 04.02
+
+## Action
+
+### URL
+LinkBehaviour_201482C8_38DC_96A0_41C6_04BAA827A341.source = https://wa.link/ag1wbo
+LinkBehaviour_20FF7D66_38CC_F260_41C0_7D8B5B8449EB.source = https://www.instagram.com/amazonindustrial/
+LinkBehaviour_214BF2E2_38DD_B660_41B8_08AE2E7FEA67.source = https://goo.gl/maps/Nfaw92LXp4ANB8Nu7
+LinkBehaviour_2FAEA3A4_38DC_96E0_41B3_A7F4AB43D518.source = https://mobile.facebook.com/amazonindustrial/
+LinkBehaviour_4CB0E59F_5582_95D1_41CC_1068CDBD9822.source = https://www.instagram.com/amazonindustrial/
+LinkBehaviour_4CB135A0_5582_95EF_41C7_30CF1E92DC79.source = https://wa.link/ag1wbo
+LinkBehaviour_4CB175A2_5582_95F3_41D0_A4DED299061B.source = https://goo.gl/maps/Nfaw92LXp4ANB8Nu7
+LinkBehaviour_4CB185A3_5582_95F1_41AD_D8F60262386C.source = https://mobile.facebook.com/amazonindustrial/
