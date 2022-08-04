@@ -1,5 +1,7 @@
 {
+ "name": "Amazon Industrial",
  "start_url": "index.htm",
+ "theme_color": "#FFFFFF",
  "icons": [
   {
    "sizes": "150x150",
@@ -37,8 +39,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "name": "Amazon Industrial",
  "background_color": "#FFFFFF",
- "theme_color": "#FFFFFF",
  "display": "fullscreen"
 }

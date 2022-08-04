@@ -13,7 +13,6 @@ tour.name = Amazon Industrial
 panorama_4FDE2E5D_54BE_9751_41AE_A56BC13B519B.label = Imagem Aérea 01
 panorama_4FF8976B_54BE_9571_41D0_DD29BCD9D2BB.label = Externa - Maués
 panorama_4FFB0752_54BE_9552_41BA_C9EDD609B7FD.label = Externa - Silves
-panorama_54C94E9C_5BDF_589E_41C2_BF92A6948DA0.label = Corredor 04.03
 panorama_56369187_5BD9_296A_41CF_2886889AC6AD.label = Bombas e Mangueiras 02
 panorama_5985FA17_5481_BED2_41BE_18005BFE1FE5.label = Imagem Aerea
 panorama_59886E68_5483_977E_41BB_EFA28707C9BA.label = Corredor 03.01
@@ -36,7 +35,8 @@ panorama_598B7276_548E_AF53_41D4_8E20129F2522.label = Tintas 1
 panorama_598B935C_5481_AD57_419F_2F0AA251C8F7.label = Corredor 03.02
 panorama_598BB300_5481_EEAF_41B9_45BD487102DA.label = Corredor 03.03
 panorama_598BF310_548E_6EAF_41D2_4907FE36776A.label = Bombas e Mangueiras
-panorama_598EB019_5482_AAD1_41B8_DD11DF7D7884.label = Corredor 04.02
+panorama_721ECAC5_66D8_846C_41BB_C5461CBA5C16.label = Corredor 04.03
+panorama_72927FAA_66D9_9C24_41AF_542FBD4E3456.label = Corredor 04.02
 
 ## Action
 
